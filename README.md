@@ -1,2 +1,2 @@
 # Arkanoid
-Arkanoid game builded in Java
+Arkanoid game builded in JavaFX
